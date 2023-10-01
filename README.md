@@ -3,6 +3,8 @@
 
 Our project leverages the power of the state-of-the-art YOLO-NAS (YOLO Neural Architecture Search) model and DeepSort algorithm for accurate and real-time object detection and tracking. YOLO-NAS is known for its exceptional accuracy, real-time performance, and efficient use of hardware.
 
+![Screenshot at 2023-10-01 20-56-11](https://github.com/Kirouane-Ayoub/YoLo-Nas-Object-Detection-and-Tracking-usind-Deep-SORT/assets/99510125/8737f1a1-4226-4eca-9a8c-8ceefa2d0389)
+
 
 ## Key Features:
 
