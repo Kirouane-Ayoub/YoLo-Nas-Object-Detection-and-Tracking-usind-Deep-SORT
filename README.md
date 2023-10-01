@@ -33,3 +33,7 @@ streamlit run app.py
 [**https://huggingface.co/spaces/ayoubkirouane/YoLo-Nas_Object-Detection_Tracking**]
 
 ![Screenshot at 2023-10-01 19-59-35](https://github.com/Kirouane-Ayoub/YoLo-Nas-Object-Detection-and-Tracking-usind-Deep-SORT/assets/99510125/4d9ac254-415f-47ec-b6f0-6306d6a5af7c)
+
+
+
++ **Devloped by Kirouane Ayoub**
