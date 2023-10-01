@@ -25,6 +25,8 @@ Our project leverages the power of the state-of-the-art YOLO-NAS (YOLO Neural Ar
 ## Installation and Usage :
 
 ```
+gdown "https://drive.google.com/uc?id=11ZSZcG-bcbueXZC3rN08CM0qqX3eiHxf&confirm=t"
+unzip deep_sort_pytorch.zip
 pip install -r requirements.txt
 streamlit run app.py
 ```
